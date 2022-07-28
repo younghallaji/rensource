@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rensource/static/css/main.84e160e5.css",
+    "main.js": "/rensource/static/js/main.5a853eab.js",
+    "static/js/787.18761aed.chunk.js": "/rensource/static/js/787.18761aed.chunk.js",
+    "static/media/enerdeal.png": "/rensource/static/media/enerdeal.a5356fd6e0d817086f21.png",
+    "static/media/heroImg.png": "/rensource/static/media/heroImg.a2e0b6ff43ad76a9d8aa.png",
+    "static/media/project-img.png": "/rensource/static/media/project-img.327431e5cc219ebaa3ce.png",
+    "static/media/Prince-Ojeabulu.png": "/rensource/static/media/Prince-Ojeabulu.499800df8876f2e1660a.png",
+    "static/media/Ellipse 4.svg": "/rensource/static/media/Ellipse 4.203d97ff8bcf5c9c5818.svg",
+    "static/media/Ellipse2.svg": "/rensource/static/media/Ellipse2.0d25e2223563f2a598bb.svg",
+    "index.html": "/rensource/index.html",
+    "static/media/ren-background.svg": "/rensource/static/media/ren-background.001eba1bb08bbc0956f2.svg",
+    "main.84e160e5.css.map": "/rensource/static/css/main.84e160e5.css.map",
+    "main.5a853eab.js.map": "/rensource/static/js/main.5a853eab.js.map",
+    "787.18761aed.chunk.js.map": "/rensource/static/js/787.18761aed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e160e5.css",
+    "static/js/main.5a853eab.js"
+  ]
+}
